@@ -1,0 +1,28 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+</style>
+font-family: 'Righteous', cursive;
+
+BG Color:
+
+#e03624
+#f67d16
+#f4f4f2
+#f67914 button
+
+
+
+My Portfolio
+
+Color Code
+Background: #293240
+Gradeint Color: #66437C #524591
+
+Font Family
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Righteous&display=swap');
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Righteous', cursive;
+
+
