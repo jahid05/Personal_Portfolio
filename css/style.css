@@ -243,7 +243,7 @@
     }
 }
 .js{
-    width: 75%;
+    width: 40%;
     animation: js 3s;
 }
 @keyframes js{
@@ -449,6 +449,7 @@
 .footer h6{
     color: var(--frist);
     margin-top: 40px;
+    margin-bottom: 0;
     padding: 15px;
     letter-spacing: 1px;
     text-align: center;

@@ -242,14 +242,20 @@
     /* Skills Section */
     .skills .skills-content h1 {
         color: var(--white);
-        font-size: 55px;
+        font-size: 45px;
         font-weight: 700;
     }
     .skills .skills-content p {
         color: var(--text);
-        font-size: 15px;
+        font-size: 12px;
         width: 90%;
         margin-top: 20px;
+    }
+    .skills .skills-content .btn{
+        margin-top: -5px;
+    }
+    .skills .skills-bar{
+        margin-top: 2rem;
     }
     .skills .skills-bar .bar {
         background: #474747;
@@ -274,21 +280,27 @@
         color: var(--white);
         list-style: none;
     }
-    /* Services Section */
-    /* .service .service-box .ser-card {
-        box-shadow: 6px 6px 10px rgb(0 0 0 / 48%), -6px -6px 10px #222;
-        padding: 20px;
-        text-align: center;
-        border-radius: 25px;
-        margin: 30px;
-        width: 280px;
-        height: 250px;
-        transition: .5s;
-    } */
+    /* About Section */
+    .about .about-content{
+        margin-top: 2rem;
+    }
 
 }
-@media (max-width: 768) {
-    
+@media (max-width: 768px) {
+    .home .home-content h1 {
+        color: var(--white);
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .home .home-content h2 {
+        color: var(--white);
+        font-size: 20px;
+        margin-top: -10px;
+    }
+    .home .home-content .btn {
+        margin-top: 10px;
+        color: var(--white);
+    }
 }
 @media (max-width: 600px) {
     
